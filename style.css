@@ -1,0 +1,20 @@
+.continer{
+    height: 800px;
+    width: 300px;
+    background-color: blueviolet;
+    color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+    
+}
+button{
+    background-color: deeppink;
+    color: white;
+    border: none;
+}
+
+
+input{
+    border: none;
+    background-color: blueviolet ;
+}
