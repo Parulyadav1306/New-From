@@ -1,5 +1,5 @@
 .continer{
-    height: 800px;
+    height: 400px;
     width: 300px;
     background-color: blueviolet;
     color: white;
@@ -8,7 +8,7 @@
     
 }
 button{
-    background-color: deeppink;
+    background-color: deeppink; 
     color: white;
     border: none;
 }
